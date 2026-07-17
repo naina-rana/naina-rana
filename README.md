@@ -1,18 +1,20 @@
 # Hi 👋,I'm Naina Rana
-Currently learning Python
-Building my programming skills step by step
-Interested in Python Development
-I upload my Python practice and projects here.
+Aspiring Python Developer
 
-💻 Projects
+🌱 Currently learning Python, Git & GitHub.
+💻 Building beginner-friendly Python projects.
+🎯 Looking for internship opportunities to gain practical experience.
 
-- Expense Tracker
+ 💻 Projects
 
-- Student Management System
+- [Smart Expense Tracker](https://github.com/naina-rana/Smart-Expense-Tracker)
+- [Student Management System](https://github.com/naina-rana/Student_Management_System)
 
 🛠 Skills
 
-- Python(Learning)
-
-- HTML(Learning)
+- Python
+- Git
+- GitHub
+- JSON
+- HTML
 
