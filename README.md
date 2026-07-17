@@ -5,12 +5,12 @@ Aspiring Python Developer
 💻 Building beginner-friendly Python projects.
 🎯 Looking for internship opportunities to gain practical experience.
 
- 💻 Projects
+ ##💻 Projects
 
 - [Smart Expense Tracker](https://github.com/naina-rana/Smart-Expense-Tracker)
 - [Student Management System](https://github.com/naina-rana/Student_Management_System)
 
-🛠 Skills
+##🛠 Skills
 
 - Python
 - Git
