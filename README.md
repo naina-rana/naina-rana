@@ -2,8 +2,8 @@
 Aspiring Python Developer
 
     Currently learning Python, Git & GitHub.
-💻 Building beginner-friendly Python projects.
-🎯 Looking for internship opportunities to gain practical experience.
+    Building beginner-friendly Python projects.
+    Looking for internship opportunities to gain practical experience.
 
  **💻 Projects**
 
