@@ -6,13 +6,13 @@ I upload my Python practice and projects here.
 
 💻 Projects
 
-Expense Tracker
+* Expense Tracker
 
-Student Management System
+* Student Management System
 
 🛠 Skills
 
-Python(Learning)
+* Python(Learning)
 
-HTML(Learning)
+* HTML(Learning)
 
