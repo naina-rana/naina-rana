@@ -6,7 +6,7 @@ I upload my Python practice and projects here.
 
 💻 Projects
 
-* Expense Tracker
+- Expense Tracker
 
 * Student Management System
 
